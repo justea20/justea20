@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @justea20
+- 👀 I’m interested in Website Development
+- 🌱 I’m currently learning Laravel
